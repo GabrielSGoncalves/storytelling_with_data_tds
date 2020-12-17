@@ -1,0 +1,10 @@
+*.pyc
+*.ipynb_checkpoints/
+*__pycache__/
+*mafft_lambda/mafftdir
+*mafft.bat
+lambda_layers
+*.zip
+*.json
+*.fasta
+*wkhtmltopdf_lambda/wkhtmltox
